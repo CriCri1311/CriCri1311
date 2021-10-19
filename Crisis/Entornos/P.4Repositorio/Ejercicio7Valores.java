@@ -9,6 +9,8 @@ public class Ejercicio7Valores {
         int horas = minutos / 60;
         int resto = minutos % 60; //puedes poner en vez de int minutos = minutos % 60;
         System.out.println("En " + minutos + " minutos hay " + horas + " horas y " + resto + " minutos");
+        
+        System.out.println("Esto es un cambio");
     }
 
 
